@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaveendraBhat
-- 👀 I’m interested in Data Analytics and Machine Learning
+- 👀 I’m interested in Data Analytics
 - 📫 You can reach me here: https://www.linkedin.com/in/raveendra-r-bhat/
 
 <!---
